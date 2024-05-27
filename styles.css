@@ -1,0 +1,36 @@
+body {background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURExUYHSggGBolGxMVITEhMSk3Ljo6Fx8/ODM4NygtOisBCgoKDg0OFQ8PDysZFRkrKysrKystKys3NysrKystLTc3LTcrKy0tLS0rKy03Kys3LSsrKy03KysrKysrKy0rLf/AABEIAKgBLAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDB//EABgQAQEBAQEAAAAAAAAAAAAAAAABEQIS/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQACAwT/xAAbEQEBAQEBAQEBAAAAAAAAAAAAARECEgNBE//aAAwDAQACEQMRAD8A9cAdnuAEgBIUCAxcWQaNZxcbnLU5Gj05Yvl18nlaPTl5PLr5MGr05eTy64mHV6c8MdMMWrXLDHTExadYxMbww6tYwxrEWlMMUKQVLEQBagAoASAEkAZIAkKikGLIsjc5FrNqTluctc8tyMWud6ZnK+W8TBrOs4mN4YtWsYY3iYjrGDViI6ziY0mFMjWM4igqEomNISzYYtSEoLUREUSZWBDCAFACSAMkIKQRqRI3zBRasjpzE5jpzGLXK1ZGpEjUc7XOmI0DRrBjWJi0ojWJTpRMXEOlMRpDpZTGqlJZsRqskiFCUZrVZpahUq6hICFBBCV01E1JQAQAIWIpDUbjEbjNYrcdI5xuOfTnW42xGnK1iqAzoEBahFQ6UStVmn0USqh0pUVGpWkZaqVrSliCVopUq1K1GoggSAhIIUlUTVSFQSUBlCxFiCxuMRqCs105bjnG45dOddI1GI1K49MVpUHK1lUAekVFQ+iJQXos1FqNzoxKlWs1qdNQrNVK3KUSqzW5WktSrWW40IUbhQEaKsgSugJCpFVCgMIAKVqVlYzWW+a3HONSufUYsdZWua5ytyvP0xY6KxK04dVhUBz9IAXpICVeiM1alanRiVmtM10nTUSotR1laZSqzXSUxKlWs11jcQEdISoI2S0BrCogkrTLTNCgMAASFQQalalYWMWCx1lblcpW5Xn6jnY6StRzjcry9sWNCK4WgEGdQAvSRFRqUpWVqV25rSVlajry0lZrVYrty1EqLWXblqJUWo6xpKFI3CWoUbSkFFSqissqAwgAoACFRRQ1K3K5xqOPcZsdZWo5xuV5O452NyqkV5OmQByAAYUqFqWuvMMRKWs2u/PLRWaWs2u/PDUhalS1LXfnluQ1NS1NdpyVSoOkhAMaJSRcBoAUIigAoDKAEgBIBYgsajKxy6FbjcYjceT6OdbjTEp6eS8W/jONprHpLVPjVjdqWsamus+Rxq1m1LU125+bWLazaWs1254akLUpUdpGkoDpCzRqpjRQxcDqQUSMDFQJAAhYipADKAEgBIWIIK1GRizQ6Sr6c9VyvzGN6awaz/MY3prGi8LGtNZGvBxdNTUPlYqA1IUoI2QClJhijWlMFTCiQBIASBRIgAAACAJACQAQKgEogsSgDEaAsQAsQAsQAsQIHEuoCQAiAEACQAkAJACT/9k=);
+      border:3px solid purple;
+      border-radius:5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 10px;
+      padding-bottom: 20px;
+      margin-left: 20px;
+      margin-right: 20px;
+}
+
+h1 {font-family:Cooper black;
+    font-weight:bold;
+    text-align:center;
+    color:purple;font-size: 45px;
+}
+
+nav ul {list-style-type:lower-alpha;
+}
+ 
+nav ul li {
+    display:inline-block;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+  font-family: Arial Rounded MT Bold;
+
+
+
+
+
+
+
